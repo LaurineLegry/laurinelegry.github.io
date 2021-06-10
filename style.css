@@ -1,0 +1,150 @@
+h1 {
+ color: #B56E5D; 
+font-family: 'Playfair Display', serif;
+ text-align: center;
+ font-size: 45px ; 
+ border: solid 3px #B56E5D ; 
+ margin: 7px 600px 10px 600px ; 	
+ border-radius: 5px;
+}
+
+h2{
+	color: #EBDED2 ; 
+	font-family: 'Playfair Display', serif;
+	text-align: center;
+	font-size: 18px ; 
+  text-decoration: underline ;
+}
+
+h5{
+  color: white;
+  text-align: center;
+}
+
+ul{
+  color: #EBDED2 ; 
+  text-align: center;
+  font-size: 15px;
+}
+
+h3{
+  font-size: 18px;
+  color: #B56E5D; 
+}
+
+h4{
+  font-family: 'Source Serif Pro', serif ;
+}
+
+.efap{
+  text-align: center;
+}
+.span-bold{
+font-weight: bold;
+}
+
+.moodboard{
+	text-align: center;
+}
+
+.framemood{
+	border: 3px solid #EBDED2 ; 
+	margin: 50px 218px 30px 200px;
+  box-shadow: 2px 2px 2px 2px #B56E5D;
+  border-radius: 1px;
+
+}
+.texte {
+  text-align: justify;
+	margin: 50px 300px 50px 300px;
+	padding: 10px ;
+  font-family: 'Playfair Display', serif;
+}
+
+.texte1{
+   font-family: 'Playfair Display', serif;
+   text-align: center;
+}
+
+.texte2{
+  padding: 10px ;
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  margin: 50px 300px 50px 300px;
+}
+
+.logo{
+  margin: 10px 500px 5px 30px ; 
+}
+
+.my-navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.links {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.link {
+  margin: 10px 30px;
+  color: #2F3A4C;
+}
+
+.link: hover {
+  color: #C1CCCC;
+}
+
+.couleurs	{
+	background: black;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.orange {
+  height: 5px;
+  width: 50%;
+  background: #B56E5D;
+}
+
+.or {
+  height: 5px;
+  width: 50%;
+  background: #C9A379;
+}
+
+.blue {
+  height: 5px;
+  width: 50%;
+  background: #C1CCCC;
+}	
+
+body{
+	background: #EBDED2;
+	text-align: center;
+}	
+
+.flexboxcartelogo{
+ justify-content: center;
+align-items : center
+
+}
+
+.framevaleurs{
+  height: 190px;
+  width: all;
+  justify-content: center;
+  background: #2F3A4C
+  
+}
+
+.valeurs{
+  color : #EBDED2;
+}
+
+.textevalues{
+  align-items: center;
+}
